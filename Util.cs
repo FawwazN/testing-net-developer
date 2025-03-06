@@ -1,3 +1,6 @@
+using System;
+using System.Linq;
+
 static class Util {
     public static bool IsOddRegNo(string registrationNo){
         var digits = new string(registrationNo.Where(char.IsDigit).ToArray());

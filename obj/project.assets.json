@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\VICTUS\\.nuget\\packages\\": {}
@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VICTUS\\Desktop\\Enigma Stuff\\Soal Test NTT Developer Testing\\ParkingSystem\\ParkingSystem.csproj",
-      "projectName": "ParkingSystem",
-      "projectPath": "C:\\Users\\VICTUS\\Desktop\\Enigma Stuff\\Soal Test NTT Developer Testing\\ParkingSystem\\ParkingSystem.csproj",
+      "projectUniqueName": "C:\\Users\\VICTUS\\Desktop\\Enigma Stuff\\Soal Test NTT Developer Testing\\net5.0\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\Users\\VICTUS\\Desktop\\Enigma Stuff\\Soal Test NTT Developer Testing\\net5.0\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\VICTUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VICTUS\\Desktop\\Enigma Stuff\\Soal Test NTT Developer Testing\\ParkingSystem\\obj\\",
+      "outputPath": "C:\\Users\\VICTUS\\Desktop\\Enigma Stuff\\Soal Test NTT Developer Testing\\net5.0\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VICTUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net9.0"
+        "net5.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -47,8 +47,8 @@
       "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
-      "net9.0": {
-        "targetAlias": "net9.0",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

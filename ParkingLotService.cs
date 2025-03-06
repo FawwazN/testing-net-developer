@@ -1,3 +1,7 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
 class ParkingLotService {
     private int totalVacant;
     private Dictionary<int, Vehicle> parkingLots;
