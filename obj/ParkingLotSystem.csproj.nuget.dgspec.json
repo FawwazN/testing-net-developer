@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VICTUS\\Desktop\\Enigma Stuff\\Soal Test NTT Developer Testing\\ParkingLotSystem\\ParkingLotSystem\\ParkingLotSystem.csproj": {}
+    "C:\\Users\\VICTUS\\Desktop\\Enigma Stuff\\Soal Test NTT Developer Testing\\github\\testing-net-developer\\ParkingLotSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VICTUS\\Desktop\\Enigma Stuff\\Soal Test NTT Developer Testing\\ParkingLotSystem\\ParkingLotSystem\\ParkingLotSystem.csproj": {
+    "C:\\Users\\VICTUS\\Desktop\\Enigma Stuff\\Soal Test NTT Developer Testing\\github\\testing-net-developer\\ParkingLotSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VICTUS\\Desktop\\Enigma Stuff\\Soal Test NTT Developer Testing\\ParkingLotSystem\\ParkingLotSystem\\ParkingLotSystem.csproj",
+        "projectUniqueName": "C:\\Users\\VICTUS\\Desktop\\Enigma Stuff\\Soal Test NTT Developer Testing\\github\\testing-net-developer\\ParkingLotSystem.csproj",
         "projectName": "ParkingLotSystem",
-        "projectPath": "C:\\Users\\VICTUS\\Desktop\\Enigma Stuff\\Soal Test NTT Developer Testing\\ParkingLotSystem\\ParkingLotSystem\\ParkingLotSystem.csproj",
+        "projectPath": "C:\\Users\\VICTUS\\Desktop\\Enigma Stuff\\Soal Test NTT Developer Testing\\github\\testing-net-developer\\ParkingLotSystem.csproj",
         "packagesPath": "C:\\Users\\VICTUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VICTUS\\Desktop\\Enigma Stuff\\Soal Test NTT Developer Testing\\ParkingLotSystem\\ParkingLotSystem\\obj\\",
+        "outputPath": "C:\\Users\\VICTUS\\Desktop\\Enigma Stuff\\Soal Test NTT Developer Testing\\github\\testing-net-developer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VICTUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
