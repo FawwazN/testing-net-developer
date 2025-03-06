@@ -12,3 +12,4 @@ C:\Users\VICTUS\Desktop\Enigma Stuff\Soal Test NTT Developer Testing\ParkingSyst
 C:\Users\VICTUS\Desktop\Enigma Stuff\Soal Test NTT Developer Testing\ParkingSystem\obj\Debug\net9.0\ParkingSystem.pdb
 C:\Users\VICTUS\Desktop\Enigma Stuff\Soal Test NTT Developer Testing\ParkingSystem\obj\Debug\net9.0\ParkingSystem.genruntimeconfig.cache
 C:\Users\VICTUS\Desktop\Enigma Stuff\Soal Test NTT Developer Testing\ParkingSystem\obj\Debug\net9.0\ref\ParkingSystem.dll
+C:\Users\VICTUS\Desktop\Enigma Stuff\Soal Test NTT Developer Testing\ParkingSystem\obj\Debug\net9.0\ParkingSystem.sourcelink.json

@@ -13,7 +13,7 @@
                     break;
                 case "park":
                     if (parkingLot == null) {
-                        Console.WriteLine("Parking lot not created");
+                        Console.WriteLine("Parking lot is not created yet");
                         continue;
                     }
                     parkingLot.Park(command[1], command[2], command[3]);

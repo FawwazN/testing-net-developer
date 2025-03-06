@@ -9,6 +9,10 @@ class Vehicle{
         get; 
     }
 
+    public string Timestamp { 
+        get; 
+        } = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+
     public Vehicle(string registrationNo, string color, string type){
         RegistrationNo = registrationNo;
         Color = color;
