@@ -1,0 +1,15 @@
+C:\Users\VICTUS\Desktop\Enigma Stuff\Soal Test NTT Developer Testing\ParkingLotSystem\ParkingLotSystem\bin\Debug\net5.0\ParkingLotSystem.exe
+C:\Users\VICTUS\Desktop\Enigma Stuff\Soal Test NTT Developer Testing\ParkingLotSystem\ParkingLotSystem\bin\Debug\net5.0\ParkingLotSystem.deps.json
+C:\Users\VICTUS\Desktop\Enigma Stuff\Soal Test NTT Developer Testing\ParkingLotSystem\ParkingLotSystem\bin\Debug\net5.0\ParkingLotSystem.runtimeconfig.json
+C:\Users\VICTUS\Desktop\Enigma Stuff\Soal Test NTT Developer Testing\ParkingLotSystem\ParkingLotSystem\bin\Debug\net5.0\ParkingLotSystem.runtimeconfig.dev.json
+C:\Users\VICTUS\Desktop\Enigma Stuff\Soal Test NTT Developer Testing\ParkingLotSystem\ParkingLotSystem\bin\Debug\net5.0\ParkingLotSystem.dll
+C:\Users\VICTUS\Desktop\Enigma Stuff\Soal Test NTT Developer Testing\ParkingLotSystem\ParkingLotSystem\bin\Debug\net5.0\ParkingLotSystem.pdb
+C:\Users\VICTUS\Desktop\Enigma Stuff\Soal Test NTT Developer Testing\ParkingLotSystem\ParkingLotSystem\obj\Debug\net5.0\ParkingLotSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\Desktop\Enigma Stuff\Soal Test NTT Developer Testing\ParkingLotSystem\ParkingLotSystem\obj\Debug\net5.0\ParkingLotSystem.AssemblyInfoInputs.cache
+C:\Users\VICTUS\Desktop\Enigma Stuff\Soal Test NTT Developer Testing\ParkingLotSystem\ParkingLotSystem\obj\Debug\net5.0\ParkingLotSystem.AssemblyInfo.cs
+C:\Users\VICTUS\Desktop\Enigma Stuff\Soal Test NTT Developer Testing\ParkingLotSystem\ParkingLotSystem\obj\Debug\net5.0\ParkingLotSystem.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\Desktop\Enigma Stuff\Soal Test NTT Developer Testing\ParkingLotSystem\ParkingLotSystem\obj\Debug\net5.0\ParkingLotSystem.dll
+C:\Users\VICTUS\Desktop\Enigma Stuff\Soal Test NTT Developer Testing\ParkingLotSystem\ParkingLotSystem\obj\Debug\net5.0\refint\ParkingLotSystem.dll
+C:\Users\VICTUS\Desktop\Enigma Stuff\Soal Test NTT Developer Testing\ParkingLotSystem\ParkingLotSystem\obj\Debug\net5.0\ParkingLotSystem.pdb
+C:\Users\VICTUS\Desktop\Enigma Stuff\Soal Test NTT Developer Testing\ParkingLotSystem\ParkingLotSystem\obj\Debug\net5.0\ParkingLotSystem.genruntimeconfig.cache
+C:\Users\VICTUS\Desktop\Enigma Stuff\Soal Test NTT Developer Testing\ParkingLotSystem\ParkingLotSystem\obj\Debug\net5.0\ref\ParkingLotSystem.dll
